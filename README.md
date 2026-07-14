@@ -8,3 +8,4 @@ flow:
 3. indexing slicing and iterating
 4. operations (more to explore)
 5. reshaping
+6. fancy indexing
