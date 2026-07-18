@@ -12,3 +12,4 @@ flow:
 7. bool indexing
 8. basic plotting
 9. broadcasting
+10. functions
