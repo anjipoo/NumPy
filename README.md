@@ -9,3 +9,6 @@ flow:
 4. operations (more to explore)
 5. reshaping
 6. fancy indexing
+7. bool indexing
+8. basic plotting
+9. broadcasting
